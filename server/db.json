@@ -1,0 +1,31 @@
+{
+  "productList": [
+    {
+      "productName": "Xiaomi",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 1500,
+      "comments": "1 product",
+      "date": "2022-09-22T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Nokia",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 500,
+      "comments": "5 Product",
+      "date": "2022-09-16T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Platano",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 15,
+      "comments": "Muy rico",
+      "date": "2022-09-23T05:00:00.000Z",
+      "id": 5
+    }
+  ]
+}
